@@ -4,13 +4,31 @@
  <title>KOMHEN 2.0</title>
  <link href="http://komhen.github.io/atom.xml" rel="self"/>
  <link href="http://komhen.github.io/"/>
- <updated>2013-10-01T19:21:07+02:00</updated>
+ <updated>2013-10-07T09:18:44+02:00</updated>
  <id>http://komhen.github.io/</id>
  <author>
    <name>Thomas Baasch Andersen</name>
    <email>thomas.baasch.andersen@koege.dk</email>
  </author>
 
+ 
+ <entry>
+   <title>Gennemgang af TraceTool Registrering</title>
+   <link href="http://komhen.github.io/2013/10/07/tracetool.html"/>
+   <updated>2013-10-07T00:00:00+02:00</updated>
+   <id>http://komhen.github.io/2013/10/07/tracetool</id>
+   <content type="html">&lt;h1&gt;Gennemgang af TraceTool Registrering&lt;/h1&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scenarier for registrering</title>
+   <link href="http://komhen.github.io/2013/10/07/scenarier.html"/>
+   <updated>2013-10-07T00:00:00+02:00</updated>
+   <id>http://komhen.github.io/2013/10/07/scenarier</id>
+   <content type="html">&lt;h1&gt;Scenarier for registrering&lt;/h1&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Præsentationer</title>
