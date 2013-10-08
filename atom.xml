@@ -4,7 +4,7 @@
  <title>KOMHEN 2.0</title>
  <link href="http://komhen.github.io/atom.xml" rel="self"/>
  <link href="http://komhen.github.io/"/>
- <updated>2013-10-07T09:18:44+02:00</updated>
+ <updated>2013-10-08T09:38:08+02:00</updated>
  <id>http://komhen.github.io/</id>
  <author>
    <name>Thomas Baasch Andersen</name>
@@ -31,10 +31,29 @@
  </entry>
  
  <entry>
+   <title>Definitioner</title>
+   <link href="http://komhen.github.io/2013/10/06/definitioner.html"/>
+   <updated>2013-10-06T00:00:00+02:00</updated>
+   <id>http://komhen.github.io/2013/10/06/definitioner</id>
+   <content type="html">&lt;h1&gt;Definitioner&lt;/h1&gt;
+&lt;p&gt;På denne sider finder du en oversigt over definitionerne, der bruges til
+  kategorisering af henvendelser.&lt;/p&gt;
+&lt;p&gt;Når du læser nedenstående definitioner er de kriteriet for hvorfor du skal
+  vælge den specifikke kategorisering.&lt;/p&gt;
+&lt;h2&gt;Blanketter&lt;/h2&gt;
+&lt;p&gt;Der medfølger en blanket hvis følgende kriterier er opfyldt:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Det er den korrekte type af blanket&lt;/li&gt;
+  &lt;li&gt;Blanketten er delvist eller helt udfyldt, med korrekte informationer&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Præsentationer</title>
-   <link href="http://komhen.github.io/2013/10/01/Slides.html"/>
+   <link href="http://komhen.github.io/2013/10/01/slides.html"/>
    <updated>2013-10-01T00:00:00+02:00</updated>
-   <id>http://komhen.github.io/2013/10/01/Slides</id>
+   <id>http://komhen.github.io/2013/10/01/slides</id>
    <content type="html">&lt;h1&gt;Præsentationer&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;/assets/intro.pdf&quot;&gt;Introduktionsmøde for enhedsansvarlige d. 2/10 - 2013&lt;/a&gt;&lt;/p&gt;
 </content>
